@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #c6cbd4;
+    color: #422323;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1 {
+    text-align: center;
+    color: #422323;
+    margin-bottom: 20px;
+}
+.success {
+    color: #1a7f37;
+    border: 1px solid #1a7f37;
+}
+.error {
+    color: #d93025;
+    border: 1px solid #d93025;
+}
+form {
+    background: #fff;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    font-size: medium;
+}
+button:hover {
+    background: #477799;
+}
